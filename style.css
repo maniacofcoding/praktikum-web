@@ -1,0 +1,31 @@
+body{
+    scroll-behavior: smooth;
+}
+.jumbotron {
+    padding-top: 2rem;
+    background-color: rgba(161, 255, 241, 0.437);
+}
+
+.card {
+    background-color: rgb(2, 44, 39);
+}
+
+.mt-4 {
+    margin-top: 128px !important;
+}
+
+.p-4 {
+    padding-top: 128px !important;
+}
+
+.mt-3 {
+    margin-top: 64px !important;
+}
+
+.p-1 {
+    padding: 2rem !important;
+}
+
+.p-2 {
+    padding: 2rem !important;
+}
